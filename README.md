@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution](https://github.com/Shadowwfall/qr-code-component-main)
-- Live Site URL: [Live Site](https://shadowwfall.github.io/qr-code-component-main/)
+- Live Site URL: [Live Site](https://shadowwfall.github.io/qr-code-component/)
 
 ## My process
 
